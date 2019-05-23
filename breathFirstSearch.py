@@ -4,7 +4,7 @@ Team Member 1: Andrew Abbott
 Team Member 2: None
 Submitted By Andrew Abbott
 GU Username: aabbott
-File Name: proj6.py
+File Name: breathFirstSearch.py
 Generates a breath first search of an 8-puzzle from an initial state
 then print out the path taken to get to the solution
 Reference: An Eight-Puzzle Solver in Python, https://gist.github.com/flatline/8382021
